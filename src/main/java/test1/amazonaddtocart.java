@@ -81,7 +81,7 @@ public class amazonaddtocart {
             
        
 		
-		//driver.quit();
+		driver.quit();
 		
 	
 	}
